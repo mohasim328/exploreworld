@@ -13,7 +13,7 @@ import Pay from "./Pages/Pay";
 import North from "./Pages/North";
 import South from "./Pages/South";
 import East from "./Pages/East";
-import West from "./pages/West";
+import West from "./Pages/West";
 
 // international
 

@@ -10,14 +10,14 @@ import Contact from "./Pages/Contact";
 import Pay from "./Pages/Pay";
 
 // domestic
-import North from "./pages/North";
-import South from "./pages/South";
-import East from "./pages/East";
+import North from "./Pages/North";
+import South from "./Pages/South";
+import East from "./Pages/East";
 import West from "./pages/West";
 
 // international
 
-import International from "./pages/International";
+import International from "./Pages/International";
 
 // place
 
